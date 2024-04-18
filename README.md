@@ -1,1 +1,1 @@
-# STAT301-Two-Way-ANOVA-Project
+# STAT301 Two-Way ANOVA Project
